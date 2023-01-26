@@ -1,4 +1,4 @@
-i #!/usr/bin/python3
+#!/usr/bin/python3
 def magic_calculation(a, b):
     result = 0
     for index in range(1, 3):
