@@ -1,2 +1,2 @@
---This command lists all mysql managed databases in your server.
+-- Lists all databases of your MySQL server.
 SHOW DATABASES;
