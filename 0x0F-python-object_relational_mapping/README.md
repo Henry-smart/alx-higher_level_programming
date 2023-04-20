@@ -1,5 +1,5 @@
-<centre><h1>Python</h1></centre>
-Object-relational mapping
+<center><h1>Python - ORM</h1></center>
+OBJECT RELATIONAL MAPPING - FEATURING
 <ul>
 <li>Python</li>
 <li>OOP</li>
